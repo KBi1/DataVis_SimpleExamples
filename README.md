@@ -10,11 +10,11 @@ This structure allows easy exploration of different datasets and demonstrates ho
 
 ## How to Use
 
-1. Open a dataset folder.  
-2. View the folder’s `README.md` for a brief explanation of the dataset.  
-3. Run the Python code to reproduce the analysis.  
-4. View the visualisation outcome image.  
-5. Repeat for other dataset folders.
+1. Open a dataset folder to see its contents.  
+2. Check the folder’s `README.md` for a brief explanation of the dataset.  
+3. The Python code in the folder reproduces the analysis.  
+4. The visualisation outcome image shows the results.  
+5. Explore other dataset folders in the same way.
 
 ## Future Work
 
